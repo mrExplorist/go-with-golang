@@ -4,7 +4,7 @@ This repository contains code files and resources for learning Go programming la
 
 ## [Go Concurrency and Goroutines](Notes/concurrencyandgoroutines.md)
 
-## [Mutex](Code/27mutexAndAwaitGroup)
+## [Mutex](/27mutexAndAwaitGroup)
 
 ## Getting Started
 
