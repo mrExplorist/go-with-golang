@@ -1,0 +1,31 @@
+Arguments: 
+  /home/lalit/.nvm/versions/node/v18.12.1/bin/node /home/lalit/.nvm/versions/node/v18.12.1/bin/yarn add
+
+PATH: 
+  /home/lalit/.nvm/versions/node/v18.12.1/bin:/home/lalit/bin:/usr/local/bin:/home/lalit/.local/bin:/home/lalit/.nvm/versions/node/v18.12.1/bin:/home/lalit/bin:/usr/local/bin:/home/lalit/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.12.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /media/lalit/01D9032711508DC0/Builds/go-with-golang/Code/21CreatingServer/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /home/lalit/.nvm/versions/node/v18.12.1/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/home/lalit/.nvm/versions/node/v18.12.1/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /home/lalit/.nvm/versions/node/v18.12.1/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
